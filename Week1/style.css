@@ -1,0 +1,95 @@
+body{
+    background-color:black;
+    margin: 50px ;
+    padding:40px;
+    font-size: 15px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #51b6bd;
+}
+header{
+    background:rgb(2, 50, 53) ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 120px;
+    height: 30%;
+}
+.main-content{
+    background: rgb(2, 50, 53) ;
+    margin-left:480px;
+    margin-right:40px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius:5px;
+    padding-right:60px;
+    padding-left:60px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 105%;
+    font-family: cursive;
+    height:200% ;
+}
+.sideleft{
+    background: #51b6bd ;
+    margin-right:20px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom:20px; 
+    font-size: 105%;
+    float: left;
+    width:380px;
+    height:200% ;
+}
+.avatar{
+width:150px;
+margin:0 auto;
+height:160px;
+background: #ffffff
+}
+h1{
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    color: palevioletred;
+}
+h2{
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #51b6bd ;
+}
+h3{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(2, 50, 53) ;
+}
+h4{
+    padding-left: 20 px;
+    margin: 0px;
+    color: palevioletred;
+}
+p{
+    text-align: justify;
+    margin: 25px;
+    font-family: Garamond; 
+    line-height: 1.5em;
+}
+.list{
+   background:  rgb(2, 50, 53) ;
+    font-family: Garamond;
+    color: white;
+}
+a{
+    color:palevioletred;
+}
+.block{
+    border:solid;
+    padding-left: 40px;
+    padding-right: 40px;
+}
